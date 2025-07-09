@@ -1,5 +1,5 @@
 # Perguntas frequentes
-Ultima atualização: 18/16/2025
+Ultima atualização: 18/06/2025
 
 ### O que é esse repositorio?
 Este repositorio vai estar armazenado todas as soluções resolvidas por min no site [Beecrowd](https://judge.beecrowd.com/pt) utilizando a linguaguem de programação Java.
